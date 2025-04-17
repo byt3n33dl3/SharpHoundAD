@@ -1,10 +1,10 @@
-# BreedHound
+# gxc-SharpHound
 
-<a href="https://github.com/pxcs/BreedHound/"><p align="center">
-<img width="300" height="300" src="logo.png">
+<a href="https://github.com/byt3n33dl3/gxc-SharpHoundAD/"><p align="center">
+<img width="300" height="300" src="BHAD.svg">
 </p></a>
 
-My own custom *SharpHound* kit ( BreedHound ) and extension, BreedHound.
+My own custom **SharpHoundAD** kit and extension, BreedHound.
 
 ## Compile Instructions
 
@@ -19,9 +19,9 @@ SharpHound is designed targeting .Net 4.6.2. SharpHound must be run from the con
 
 ## Get BreedHound
 
-The latest build of BreedHound will always be found [here](https://github.com/pxcs/BreedHound/releases).
+The latest build of BreedHound will always be found [here](https://github.com/byt3n33dl3/gxc-SharpHoundAD/releases).
 
-To determine the BreedHound version compatible with a deployed **BloodHound** CE instance, login to BloodHound CE's web UI and click on ⚙️ (Settings) → Download Collectors. Then, click either the "Download BreedHound" button in the user interface or use the displayed BreedHound version to download the appropriate [release binary](https://github.com/pxcs/BreedHound/releases). Alternatively, compile a BreedHound binary from the corresponding release commit.
+To determine the BreedHound version compatible with a deployed **BloodHound** CE instance, login to BloodHound CE's web UI and click on ⚙️ (Settings) → Download Collectors. Then, click either the "Download BreedHound" button in the user interface or use the displayed BreedHound version to download the appropriate [release binary](https://github.com/byt3n33dl3/gxc-SharpHoundAD/releases). Alternatively, compile a BreedHound binary from the corresponding release commit.
 
 
 ## Feature Update
