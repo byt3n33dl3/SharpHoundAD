@@ -4,7 +4,7 @@
 <img width="300" height="300" src="BHAD.svg">
 </p></a>
 
-My own custom **SharpHoundAD** kit and extension, BreedHound.
+My own custom **SharpHoundAD** kit and extension, SharpHoundAD.
 
 ## Compile Instructions
 
@@ -15,13 +15,13 @@ dotnet build
 
 ## Requirements
 
-SharpHound is designed targeting .Net 4.6.2. SharpHound must be run from the context of a domain user, either directly through a logon or through another method such as RUNAS.
+SharpHound is designed targeting .Net 4.6.2. SharpHoundAD must be run from the context of a domain user, either directly through a logon or through another method such as RUNAS.
 
 ## Get BreedHound
 
 The latest build of BreedHound will always be found [here](https://github.com/byt3n33dl3/gxc-SharpHoundAD/releases).
 
-To determine the BreedHound version compatible with a deployed **BloodHound** CE instance, login to BloodHound CE's web UI and click on ⚙️ (Settings) → Download Collectors. Then, click either the "Download BreedHound" button in the user interface or use the displayed BreedHound version to download the appropriate [release binary](https://github.com/byt3n33dl3/gxc-SharpHoundAD/releases). Alternatively, compile a BreedHound binary from the corresponding release commit.
+To determine the SharpHoundAD version compatible with a deployed **BloodHound** CE and **BlackMarlinExec** instance, login to BloodHound CE's web UI and click on ⚙️ (Settings) → Download Collectors. Then, click either the "Download SharpHoundAD" button in the user interface or use the displayed SharpHoundAD version to download the appropriate [release binary](https://github.com/byt3n33dl3/gxc-SharpHoundAD/releases). Alternatively, compile a BreedHound binary from the corresponding release commit.
 
 
 ## Feature Update
